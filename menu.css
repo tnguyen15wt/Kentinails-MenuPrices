@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+
+  .wrapper{
+    width: 100%;
+  }
+
+ .img-menu1{
+    width: 100%;
+ }
+
+ .img-menu2{
+    width: 100%;
+ }
+
+ @media only screen and (min-width:768px) {
+    .wrapper{
+        width: 600px;
+        margin: 0 auto;
+    
+      }
+    }
+
+   
+
